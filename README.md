@@ -12,4 +12,4 @@
 - OOP (Classes, Objects, Arrays)
 
 ## Author
-Your Name
+Bingewar Shreya
